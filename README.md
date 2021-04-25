@@ -1,8 +1,12 @@
 ## 💬 Introduction
 
-[![Vincentius Samuel Gondokusumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=f1reboywatergrl&count_private=true&show_icons=true&theme=tokyonight&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/aTCa0tTwPzfig/giphy.gif" width="400"/>
 
-Hello! I'm Vincent, currently pursuing an Information Technology degree at Institut Teknologi Bandung. I'm very passionate about the world of Web Development and Software Engineering. I'm open for opportunities regarding Back-end Development. Feel free to look around or to contact me!
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=f1reboywatergrl&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" alt="f1reboywatergrl's Github Stats"/> 
+
+Hello! I'm Vincent, currently pursuing an Information Technology degree at Institut Teknologi Bandung. I'm very passionate about the world of Web Development and Software Engineering, and I'm open for opportunities regarding Back-end Development. Feel free to look around or to contact me!
 
 ## 💼 Professional Experiences
 | Roles | Type | Company/Institution | Duration |
@@ -25,7 +29,11 @@ Python, PHP, JavaScript ES6, TypeScript, C, Java, Git, Linux, AWS Stack, REST AP
 
 React, TypeScript, Apollo GraphQL
 
-## 🤝🏻 Connect with Me
+### 🌱 Currently Learning
+
+Docker, Node.js
+
+## 📫 Connect with Me!
 <p>
 <!-- &nbsp; <a href="https://dionisiusdarryl.live" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/geography.png" width="50" /></a>  -->
 &nbsp; <a href="https://www.linkedin.com/in/vincentius-samuel/" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/128/61/61109.png" width="35" /></a>
