@@ -1,4 +1,4 @@
-## 💬 Introduction
+## :milky_way: Introduction
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/cd7f79c1cb33871b973be39230faf6e6/tumblr_p510txFA4i1shdhdjo2_540.gif" width="250"/>
 
@@ -34,6 +34,10 @@ React, TypeScript, Apollo GraphQL
 ### 🌱 Currently Learning
 
 Docker, Node.js
+
+## 💬 Favorite Quote
+
+<strong> "Never stop fighting, for what you believe in, and for the people who care about you." </strong> ~ President Donald J. Trump
 
 ## 📫 Connect with Me!
 <p>
