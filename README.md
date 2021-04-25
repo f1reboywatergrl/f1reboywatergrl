@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![Vincentius Samuel Gondokusumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=f1reboywatergrl&count_private=true&show_icons=true&theme=tokyonight&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
+Hello! I'm currently pursuing an Information Technology degree at Institut Teknologi Bandung. I'm very passionate about the world of Web Development and Software Engineering.
 <!--
 **f1reboywatergrl/f1reboywatergrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
