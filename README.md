@@ -1,6 +1,6 @@
 ## 💬 Introduction
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/cd7f79c1cb33871b973be39230faf6e6/tumblr_p510txFA4i1shdhdjo2_540.gif" width="400"/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/cd7f79c1cb33871b973be39230faf6e6/tumblr_p510txFA4i1shdhdjo2_540.gif" width="300"/>
 
 <br>
 
