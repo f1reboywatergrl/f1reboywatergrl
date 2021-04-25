@@ -8,14 +8,14 @@
 
 <br/>
 
-Hello! I'm Vincent, currently pursuing an Information Technology degree at Institut Teknologi Bandung. I'm very passionate about the world of Web Development and Software Engineering, and I'm open for opportunities regarding Back-end Development. Feel free to look around or to contact me!
+Hello :wave:! I'm Vincent, currently pursuing an Information Technology degree at Institut Teknologi Bandung. I'm very passionate about the world of Web Development and Software Engineering, and I'm open for opportunities regarding Back-end Development. Feel free to look around or to contact me!
 
 ## 💼 Professional Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Software Engineer | Full-time Internship | Majapait.ai | Feb 2021 - Mar 2021 |
-| Software Engineer | Part-time Internship | [Diceritain](https://diceritain.com/) | Nov 2020 - Feb 2021 |
-| Senior Student Mentor | Volunteering | [Kotakode](https://kotakode.com/) | Nov 2020 - Jan 2021 |
+| Software Engineer | :fire: Full-time Internship | Majapait.ai | Feb 2021 - Mar 2021 |
+| Software Engineer | :clock1230: Part-time Internship | [Diceritain](https://diceritain.com/) | Nov 2020 - Feb 2021 |
+| Senior Student Mentor | 🤝🏻 Volunteering | [Kotakode](https://kotakode.com/) | Nov 2020 - Jan 2021 |
 
 ## :computer: Freelance Projects
 | Role | Description | Tech Stacks | Live Preview | Duration | 
@@ -44,14 +44,6 @@ Docker, Node.js
 <!--
 **f1reboywatergrl/f1reboywatergrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://www.webfx.com/tools/emoji-cheat-sheet/
+https://github.com/anuraghazra/github-readme-stats
 -->
