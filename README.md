@@ -1,10 +1,12 @@
 ## 💬 Introduction
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/aTCa0tTwPzfig/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/cd7f79c1cb33871b973be39230faf6e6/tumblr_p510txFA4i1shdhdjo2_540.gif" width="400"/>
 
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=f1reboywatergrl&count_private=true&show_icons=true&theme=tokyonight&border_radius=15" alt="f1reboywatergrl's Github Stats"/> 
+
+<br/>
 
 Hello! I'm Vincent, currently pursuing an Information Technology degree at Institut Teknologi Bandung. I'm very passionate about the world of Web Development and Software Engineering, and I'm open for opportunities regarding Back-end Development. Feel free to look around or to contact me!
 
