@@ -13,8 +13,8 @@ Hello :wave:! I'm Vincent, currently pursuing an Information Technology degree a
 ## 💼 Professional Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Software Engineer | :fire: Full-time Internship | Majapait.ai | Feb 2021 - Mar 2021 |
-| Software Engineer | :clock1230: Part-time Internship | [Diceritain](https://diceritain.id/) | Nov 2020 - Feb 2021 |
+| Software Engineer | :fire: Full-time | Majapait.ai | Feb 2021 - Mar 2021 |
+| Software Engineer | :clock1230: Part-time | [Diceritain](https://diceritain.id/) | Nov 2020 - Feb 2021 |
 | Senior Student Mentor | 🤝🏻 Volunteering | [Kotakode](https://kotakode.com/) | Nov 2020 - Jan 2021 |
 
 ## :computer: Freelance Projects
