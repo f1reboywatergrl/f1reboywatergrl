@@ -8,7 +8,7 @@
 
 <br/>
 
-Hello :wave:! I'm Vincent, currently pursuing an Information Technology degree at Institut Teknologi Bandung. I'm very passionate about the world of Web Development and Software Engineering, and I'm open for opportunities regarding Back-end Development. Feel free to look around or to contact me!
+Hello :wave:! I'm Vincent, and I'm very passionate about the world of Software Engineering, and I'm currently open for opportunities in it. Feel free to look around!
 
 ## 💼 Professional Experiences
 | Roles | Type | Company/Institution | Duration |
@@ -20,7 +20,7 @@ Hello :wave:! I'm Vincent, currently pursuing an Information Technology degree a
 ## :computer: Freelance Projects
 | Role | Description | Tech Stacks | Live Preview | Duration | 
 | --- | --- | --- | --- | --- |
-| Front-end Developer | CRUD-based Web App | React.js, TypeScript, Apollo GraphQL | :construction: Under Construction | Mar 2021 - Present |
+| Front-end Developer | Data Management System | React.js, TypeScript, Apollo GraphQL | :construction: Under Construction | Mar 2021 - Present |
 | Front-end Developer | Event Information Website | Next.js, TypeScript, Vercel CI/CD | [StudentsxCEOs 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - Apr 2021 |
 
 ## 🛠 Technologies
