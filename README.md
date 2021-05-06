@@ -27,14 +27,6 @@ Hello :wave:! I'm Vincent, currently pursuing an Information Technology degree a
 
 Python, PHP, JavaScript ES6, TypeScript, C, Java, Git, Linux, AWS Stack, REST API, Figma, Laravel, React.js/Native, Next.js, Express.js, Node.js, MySQL, PostgreSQL, Firebase, GraphQL
 
-### :star2: Preferred Stack (Front-end)
-
-React, TypeScript, Apollo GraphQL
-
-### 🌱 Currently Learning
-
-Docker, Node.js
-
 ## 💬 Favorite Quote
 
 <strong> "Never stop fighting, for what you believe in, and for the people who care about you." </strong> ~ President Donald J. Trump
