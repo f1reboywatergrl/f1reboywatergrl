@@ -1,6 +1,6 @@
 ## :milky_way: Introduction
 
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/cd7f79c1cb33871b973be39230faf6e6/tumblr_p510txFA4i1shdhdjo2_540.gif" width="250"/>
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/cd7f79c1cb33871b973be39230faf6e6/tumblr_p510txFA4i1shdhdjo2_540.gif" width="250" />
 
 <br>
 
@@ -11,21 +11,23 @@
 Hello :wave:! I'm Vincent, and I'm very passionate about the world of Software Engineering, and I'm currently open for opportunities in it. Feel free to look around!
 
 ## 💼 Professional Experiences
-| Roles | Type | Company/Institution | Duration |
+| Role | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Software Engineer | :fire: Full-time | Majapait.ai | Feb 2021 - Mar 2021 |
-| Software Engineer | :clock1230: Part-time | [Diceritain](https://diceritain.id/) | Nov 2020 - Feb 2021 |
+| Software Engineer | :fire: Full-time | [eDaun](https://www.edaun.co.id/) | May 2021 - Sep 2021 |
+| Full-stack Engineer | :fire: Full-time | Majapait.ai | Feb 2021 - Apr 2021 |
+| Mobile Application Engineer | :clock1230: Part-time | [Diceritain](https://diceritain.id/) | Nov 2020 - Feb 2021 |
 | Senior Student Mentor | 🤝🏻 Volunteering | [Kotakode](https://kotakode.com/) | Nov 2020 - Jan 2021 |
 
 ## :computer: Freelance Projects
-| Role | Description | Tech Stacks | Live Preview | Duration | 
+| Scope | Role | Description | Tech Stacks | Project Preview |
 | --- | --- | --- | --- | --- |
-| Front-end Developer | Data Management System | React.js, TypeScript, Apollo GraphQL | :construction: Under Construction | Mar 2021 - Present |
-| Front-end Developer | Event Information Website | Next.js, TypeScript, Vercel CI/CD | [StudentsxCEOs 10th Grand Summit](https://sxcgrandsummit.com/) | Jan 2021 - Apr 2021 |
+| Full-stack Web App | Lead Front-end Developer | Event Information & Online Competition Site | Next.js, Google APIs | [10th Industrial Engineering Competition 2022](https://www.iecom.asia/) |
+| Full-stack Web App | Front-end Developer | Event Information Site | Next.js | [Business & IT Case League 4.0](https://bistleague.com/) |
+| Front-End Web App | Lead Front-end Developer | Event Information Site | Next.js, Google APIs, Vercel CI/CD | [StudentsxCEOs 10th Grand Summit (Legacy)](https://sxcgrandsummit-f1reboywatergrl.vercel.app/) |
 
 ## 🛠 Technologies
 
-Python, PHP, JavaScript ES6, TypeScript, C, Java, Git, Linux, AWS Stack, REST API, Figma, Laravel, React.js/Native, Next.js, Express.js, Node.js, MySQL, PostgreSQL, Firebase, GraphQL
+Python, PHP, JavaScript ES11, TypeScript, C, Java, Git, Linux, AWS Stack, REST API, Figma, Laravel, React.js/Native, Next.js, Express.js, Node.js, MySQL, PostgreSQL, Firebase, GraphQL
 
 ## 💬 Favorite Quote
 
