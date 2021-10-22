@@ -8,7 +8,7 @@
 
 <br/>
 
-Hello :wave:! I'm Vincent, and I'm very passionate about the world of Software Engineering, and I'm currently open for opportunities in it. Feel free to look around!
+Hello :wave:! I'm Vincent, and I'm very passionate about the world of Software Engineering. Feel free to look around!
 
 ## 💼 Professional Experiences
 | Role | Type | Company/Institution | Duration |
