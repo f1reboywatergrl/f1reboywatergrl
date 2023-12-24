@@ -8,7 +8,7 @@
 
 <br/>
 
-Hello :wave:! I'm Vincent, and I'm very passionate about the world of Software Engineering. Feel free to look around!
+Hello :wave:! I'm Samuel, and I'm very passionate about the world of Software Engineering. Feel free to look around!
 
 ## 💼 Professional Experiences
 | Role | Type | Company/Institution | Duration |
@@ -31,7 +31,7 @@ Python, PHP, JavaScript ES11, TypeScript, C, Java, Git, Linux, AWS Stack, REST A
 
 ## 💬 Favorite Quote
 
-<strong> "Never stop fighting, for what you believe in, and for the people who care about you." </strong> ~ President Donald J. Trump
+<strong> "Never stop fighting, for what you believe in, and for the people who care about you." </strong>
 
 ## 📫 Connect with Me!
 <p>
